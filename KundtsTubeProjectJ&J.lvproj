@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="CreateIntegerArrayJ&amp;J.vi" Type="VI" URL="../CreateIntegerArrayJ&amp;J.vi"/>
+		<Item Name="KundtsTubeJ&amp;J.vi" Type="VI" URL="../../../AppData/Local/Temp/7zOD6FE.tmp/KundtsTubeJ&amp;J.vi"/>
 		<Item Name="KundtsTubeJ&amp;J.vi" Type="VI" URL="../KundtsTubeJ&amp;J.vi"/>
 		<Item Name="MeasureRMSJ&amp;J.vi" Type="VI" URL="../MeasureRMSJ&amp;J.vi"/>
 		<Item Name="ResonanceAnalyzerJ&amp;J.vi" Type="VI" URL="../ResonanceAnalyzerJ&amp;J.vi"/>
@@ -314,7 +315,7 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="SpreadsheetRead (1).vi" Type="VI" URL="../../week6/SpreadsheetRead (1).vi"/>
+			<Item Name="SpreadsheetRead (1).vi" Type="VI" URL="../SpreadsheetRead (1).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
